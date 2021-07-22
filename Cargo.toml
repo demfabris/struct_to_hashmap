@@ -1,0 +1,2 @@
+[workspace]
+members = ["to_hashmap_derive", "to_hashmap", "example"]
